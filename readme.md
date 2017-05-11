@@ -32,3 +32,6 @@ These are meant to be 1:1 copies of what is done in the video. If you found a be
 The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
+
+## Jaycee's note
+As a part of my learning journey, each exercise folder will contain a notes.md file to document the new concepts or ES6 syntax I've learnt from the exercise.
